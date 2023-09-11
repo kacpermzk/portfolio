@@ -37,8 +37,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a 20 years old student from England. I'm currently studying Digital Business & Data Science and am starting my own Company with an app names "Bl!tz"
-            I'm incredibly excited to see where this journey takes me. 
+            I&apos;m a 20 years old student from England. I&apos;m currently studying Digital Business & Data Science and am starting my own Company with an app named Blitz
+            I&apos;m incredibly excited to see where this journey takes me. 
           </p>
           <div>
             <Link
